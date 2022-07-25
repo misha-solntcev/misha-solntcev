@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @misha-solntcev
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, C#.
 - 🌱 I’m currently learning in Baikal State University (Irkutsk, Russia)
-- 💞️ I’m looking to collaborate  in learning Python
+- 💞️ I’m looking to collaborate  in learning Python, C#.
 - 📫 How to reach me: misha.solntcev@gmail.com 
 
 <!---
